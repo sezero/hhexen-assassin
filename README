@@ -1,0 +1,5 @@
+To use these files, you'll need to have a copy of Andre Majorel's DeuTex
+utility.  You can find that at http://img.teaser.fr/~amajorel/deutex/index.html
+
+You may have to edit the paths in the buildit script to correctly point to your
+hexen.wad file.
